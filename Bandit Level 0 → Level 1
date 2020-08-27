@@ -1,4 +1,7 @@
 ssh -p 2220 bandit1@bandit.labs.overthewire.org
 #password from previous level - boJ9jbbUNNfktd78OOpsqOltutMc3MY1
+ls
+#check current directory from root for opening .hidden file
+pwd
 cat /home/bandit1/-
-# password for the next level - CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
+# password - CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
