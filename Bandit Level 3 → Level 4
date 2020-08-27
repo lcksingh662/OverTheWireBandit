@@ -1,0 +1,9 @@
+ssh -p 2220 bandit3@bandit.labs.overthewire.org
+#password from previous level 
+ls
+cd inhere
+ls -a
+#check current directory from root for opening .hidden file
+pwd
+cat /home/bandit3/inhere/.hidden
+#password - pIwrPrtPN36QITSp3EQaw936yaFoFgAB
